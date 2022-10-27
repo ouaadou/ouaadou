@@ -4,7 +4,7 @@ Hi 👋 My name is mohamed OUAADOU
 Full stack developer
 ----------------------
 
-I’m a Morocco based software engineer student interested in graphic design, desktop, mobile and web devlopement. Currently, Im working on an invoicing system for small business , it will be available soon. To work with me or learn more, drop a message to contactvanks@gmail.com.
+I’m a Morocco based software engineer student interested in graphic design, desktop, mobile and web devlopement. Currently, Im working on an invoicing system for small business , it will be available soon. To work with me or learn more, drop a message to ouaadou@gmail.com.
 
 * 🌍  I'm based in Casablanca, Morocco
 * ✉️  You can contact me at [ouaadou@gmail.com](mailto:ouaadou@gmail.com)
